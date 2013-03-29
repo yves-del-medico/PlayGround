@@ -1,0 +1,10 @@
+{
+	"id": "com.ydm.playground",
+	"version": "0.0.1",
+	"vendor": "My Company",
+	"type": "web",
+	"main": "index.html",
+	"title": "PlayGround",
+	"icon": "icon.png",
+	"uiRevision":2
+}

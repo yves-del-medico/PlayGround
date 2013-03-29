@@ -18,6 +18,9 @@
 	<body class="enyo-unselectable">
 		<script>
 			new App().renderInto(document.body);
+                        if (window.PalmSystem) {
+                                window.PalmSystem.stageReady();
+                        }
 		</script>
 	</body>
 </html>
