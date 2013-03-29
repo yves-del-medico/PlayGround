@@ -1,0 +1,27 @@
+{
+  "build": {
+    "phonegap": {
+      "enabled": false,
+      "icon": {
+        "src": "icon.png",
+        "role": "default"
+      },
+      "preferences": {
+        "phonegap-version": "2.0.0"
+      },
+      "targets": {},
+      "appId": ""
+    }
+  },
+  "preview": {
+    "top_file": "debug.html"
+  },
+  "author": {
+    "name": "Yves",
+    "href": "ydm"
+  },
+  "id": "com.ydm.playground",
+  "version": "0.0.1",
+  "name": "PlayGround",
+  "title": "PlayGround"
+}
